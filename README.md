@@ -14,8 +14,8 @@ Modelo de Tensorflow entrenado por Matías Villagrán, https://github.com/Zickox
 Bot de Discord que sirve de ejemplo sobre como consumir la API.
 Lee el resultado en formato json y lo muestra en el chat como una bonita imágen de anime.
 
-### Commands
+### Comandos
 
- Command | Description | Usage |
+ Comando | Descripción | Uso |
 | ------------- | ------------- | :-----------: |
 | !reco | Inicia el proceso de reconocimiento a través de la imágen. | `!reco` |
