@@ -20,7 +20,7 @@ Lee el resultado en formato json y lo muestra en el chat como una bonita imágen
 | ------------- | ------------- | :-----------: |
 | !reco | Inicia el proceso de reconocimiento a través de la imágen. | `!reco` |
 
-<p align="center">
+<p align="left">
     <a target="_blank" href="https://4da.ms/">
         <img src="https://i.imgur.com/IZIWAy2.png" alt="Image"/>
     </a>
