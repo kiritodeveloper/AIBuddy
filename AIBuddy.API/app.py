@@ -1,5 +1,6 @@
 # Tensorflow Wrapper
-# rgaticav94
+# Rodrigo Gatica
+# Modelo entrenado por: Matías Villagrán
 
 from __future__ import absolute_import
 from __future__ import division
