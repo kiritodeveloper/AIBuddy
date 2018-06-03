@@ -19,3 +19,9 @@ Lee el resultado en formato json y lo muestra en el chat como una bonita imágen
  Comando | Descripción | Uso |
 | ------------- | ------------- | :-----------: |
 | !reco | Inicia el proceso de reconocimiento a través de la imágen. | `!reco` |
+
+<p align="center">
+    <a target="_blank" href="https://4da.ms/">
+        <img src="https://imgur.com/IZIWAy2" alt="Icon"/>
+    </a>
+</p>
