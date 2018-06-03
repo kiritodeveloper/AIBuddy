@@ -1,5 +1,4 @@
-# Tensorflow Wrapper
-# Rodrigo Gatica
+# Tensorflow Wrapper: Rodrigo Gatica
 # Modelo entrenado por: Matías Villagrán
 
 from __future__ import absolute_import
