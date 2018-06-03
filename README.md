@@ -5,7 +5,7 @@ Este repositorio cubre todo lo requerido para el correcto despliegue de una arqu
 
 ## AIBuddy.API
 
-El backend que contiene el modelo de tensorflow, capaz de reconocer discapacitados con imágenes.
+El backend que contiene el modelo de tensorflow capaz de reconocer discapacitados con imágenes.
 
 ## AIBuddy.Discord
 
