@@ -7,9 +7,9 @@ Este repositorio cubre todo lo requerido para el correcto despliegue de una arqu
 
 El backend que contiene el modelo de tensorflow capaz de reconocer discapacitados con imágenes.
 
+Modelo de Tensorflow entrenado por Matías Villagrán, https://github.com/Zickox
+
 ## AIBuddy.Discord
 
 Bot de Discord que sirve de ejemplo sobre como consumir la API.
-Lee el resultado en formato json y lo muestra en el chat como mna bonita imágen de anime.
-
-Modelo de Tensorflow entrenado por Matías Villagrán, https://github.com/Zickox
+Lee el resultado en formato json y lo muestra en el chat como una bonita imágen de anime.
