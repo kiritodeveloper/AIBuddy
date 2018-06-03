@@ -1,5 +1,5 @@
-# Tensorflow Wrapper: Rodrigo Gatica
-# Modelo entrenado por: Matías Villagrán
+# Flask wrapper: Rodrigo Gatica
+# Tensorflow Model: Matías Villagrán
 
 from __future__ import absolute_import
 from __future__ import division
