@@ -1,6 +1,6 @@
 # AI Buddy
 
-Prueba de concepto sobre el reconocimiento de imágenes através de inteligencia artificial, utilizando Tensorflow como cerebro.
+Prueba de concepto sobre el reconocimiento de imágenes através de inteligencia artificial utilizando Tensorflow como cerebro.
 Este repositorio cubre todo lo requerido para el correcto despliegue de una arquitectura en base a API Rest.
 
 ## AIBuddy.API
