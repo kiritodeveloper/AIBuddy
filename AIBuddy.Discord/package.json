@@ -1,0 +1,26 @@
+{
+  "name": "aibuddy.discord",
+  "version": "1.0.0",
+  "description": "Discord bot as example of consuming the AI Buddy API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "ai",
+    "buddy",
+    "image",
+    "recognition"
+  ],
+  "author": "Rodrigo Gatica",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "discord.js": "^11.3.2",
+    "gm": "^1.23.1",
+    "moment": "^2.22.2",
+    "superagent": "^3.8.3"
+  }
+}
