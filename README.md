@@ -22,6 +22,6 @@ Lee el resultado en formato json y lo muestra en el chat como una bonita imágen
 
 <p align="center">
     <a target="_blank" href="https://4da.ms/">
-        <img src="https://imgur.com/IZIWAy2" alt="Icon"/>
+        <img src="https://i.imgur.com/IZIWAy2.png" alt="Image"/>
     </a>
 </p>
