@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+  <title>AI Buddy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,400italic,700italic,700' rel='stylesheet' type='text/css'>
+  <style>
+    .grid-container {
+      display: grid;
+      grid-template-columns: auto auto;
+    }
+  </style>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="percircle.css" />
+  <link rel="stylesheet" href="animate.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.2.1/dist/jquery.min.js"></script>
+  <script type="text/javascript" src="percircle.js"></script>
+</head>
+<body>
+  <header class="site__header island">
+    <div class="wrap">
+      <span id="animationSandbox" style="display: block;">
+        <h1 class="site__title mega">AI Buddy</h1>
+      </span>
+      <span id="subtitle" class="beta subhead">So what do you do? You choose AI Buddy</span>
+    </div>
+  </header>
+  <!-- /.site__header -->
+  <main class="site__content island" role="content">
+    <div class="wrap">
+      <div id="result" class="grid-container" >
+        <div class="item1">
+          <div id="result1" class="pink center percircle animate">
+            <span style="">0</span>
+            <div class="slice">
+              <div class="bar" style="border-color: rgb(30, 192, 176); transform: rotate(0deg);"></div>
+              <div class="fill" style="border-color: #1ec0b0"></div>
+            </div>
+          </div>
+        </div>
+        <div class="item2">
+          <div id="result2" class="pink center percircle animate">
+            <span style="">0</span>
+            <div class="slice">
+              <div class="bar" style="border-color: rgb(30, 192, 176); transform: rotate(0deg);"></div>
+              <div class="fill" style="border-color: #1ec0b0"></div>
+            </div>
+          </div>
+        </div>
+        <div class="item3">
+          <p>Minusválido</p>
+        </div>
+        <div class="item4">
+          <p>No minusválido</p>
+        </div>
+      </div>
+      <p id="error" style="color:red">Please select a smaller file</p>
+      <form id="imgur">
+        <input type="file" class="imgur" accept="image/*" data-max-size="5000" />
+      </form>
+      <hr />
+      <p class="meta">
+        <a href="//github.com/rgaticav/AIBuddy">Ver en Github</a>
+      </p>
+      <p>
+        <small>Prueba de concepto sobre el reconocimiento de imágenes através de inteligencia artificial utilizando Tensorflow como
+          cerebro. </small>
+      </p>
+    </div>
+  </main>
+  <!-- /.site__content -->
+  <script src="main.js"></script>
+</body>
+</html>
