@@ -14,7 +14,7 @@ $("document").ready(function () {
 				error.style.display = "block";
 				return false;
 			}
-			var apiUrl = 'http://localhost:5000/upload';
+			var apiUrl = 'http://127.0.0.1:5000/upload';
 			var settings = {
 				"async": true,
 				"crossDomain": false,
